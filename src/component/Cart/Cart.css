@@ -1,0 +1,11 @@
+.cart-container{
+    width: 300px; 
+    margin: 40px 20px 0 20px;
+}
+
+.card{
+    text-align: center;
+}
+.cart{
+    position: fixed;
+}
